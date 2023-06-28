@@ -1,6 +1,6 @@
 //file name should be class name
 //Aim:Hello world
-class Main{
+class Hello_world{
 
 
 public static void main(String args[]){
